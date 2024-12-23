@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://0xmm.in/posts/hello_world/</loc>
+    <loc>https://0xmm.in/posts/helloworld/</loc>
     <lastmod>2024-12-22T23:30:04+05:30</lastmod>
   </url><url>
     <loc>https://0xmm.in/</loc>
@@ -11,12 +11,16 @@
     <loc>https://0xmm.in/posts/</loc>
     <lastmod>2024-12-22T23:30:04+05:30</lastmod>
   </url><url>
+    <loc>https://0xmm.in/tags/selfhost/</loc>
+    <lastmod>2024-12-22T23:30:04+05:30</lastmod>
+  </url><url>
+    <loc>https://0xmm.in/tags/</loc>
+    <lastmod>2024-12-22T23:30:04+05:30</lastmod>
+  </url><url>
     <loc>https://0xmm.in/archives/</loc>
   </url><url>
     <loc>https://0xmm.in/categories/</loc>
   </url><url>
     <loc>https://0xmm.in/search/</loc>
-  </url><url>
-    <loc>https://0xmm.in/tags/</loc>
   </url>
 </urlset>
